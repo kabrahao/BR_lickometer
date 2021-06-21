@@ -1,11 +1,11 @@
 # Licktech
 
 ## Research Team
-Professor: Karina Possa Abrahão, PhD
+Principal Investigator: Karina Possa Abrahão, PhD
 
 Biomedical Engineer: Mariana Cardoso Melo, PhD
 
-Post-Graduate Students:
+Graduate Students:
         Marianna Nogueira Cecyn, Msc;
         Paula Mendonça C. Eduardo
         
