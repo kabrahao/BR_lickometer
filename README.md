@@ -2,10 +2,14 @@
 
 ## Research Team
 Professor: Karina Possa Abrahão, PhD
+
 Biomedical Engineer: Mariana Cardoso Melo, PhD
+
 Post-Graduate Students:
+        Marianna Nogueira Cecyn, Msc;
         Paula Mendonça C. Eduardo
-        Marianna Nogueira Cecyn, Msc
+        
+        
 Undergraduate Student:
         Paulo Eduardo Alves
 
