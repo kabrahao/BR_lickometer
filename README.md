@@ -1,5 +1,16 @@
 # Licktech
 
+## Research Team
+Professor: Karina Possa Abrahão, PhD
+Biomedical Engineer: Mariana Cardoso Melo, PhD
+Post-Graduate Students:
+        Paula Mendonça C. Eduardo
+        Marianna Nogueira Cecyn, Msc
+Undergraduate Student:
+        Paulo Eduardo Alves
+
+
+
 Here, we present the development of eight automated wireless cages with two drinking sippers each for rodents. Lickometers are devices that can measure the licks from rodents, and it is used in many fields of basic research. This project was developed by researchers from the Department of Psychobiology at the Federal University of São Paulo, aiming to offer a low-cost strategy.
 
 ## Development of the house cage
